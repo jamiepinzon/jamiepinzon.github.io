@@ -1,0 +1,28 @@
+h1{
+	font-family: cursive; 
+	font-weight:bold;
+}
+
+h2{
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+.byline,
+.credit,
+.dateline {
+	font-family: sans-serif;
+	font-style:normal;
+}
+
+.caption{
+	font-family:"Times New Roman", Times, serif;
+	font-style:normal;
+}
+
+p{
+	font-style:italic;
+}
+
+#footer{
+	font-style:normal;
+	font-size: 10px;
+}
