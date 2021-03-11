@@ -1,6 +1,89 @@
 .content{
-	padding-top: 5%;}
 
-	h1{
-		font-family: 'Shippori Mincho B1', serif;
+	padding-top: 5%;
+
+}
+
+h1{
+	font-family: 'Noto Serif SC', serif;;
+	color: #9D3C1B;
+	text-transform: uppercase;
+}
+
+h2{
+	font-family: 'Noto Serif SC', serif;;
+	color: #9D3C1B;
+	text-transform: uppercase;
+}
+
+h4{
+	font-family: 'Noto Serif SC', serif;;
+	color: #BD3202;	
+}
+
+ul{
+	font-family: 'Noto Serif SC', serif;;
+		color: #7FB7C6;
 	}
+
+p{
+	color: #7FB7C6;
+}
+
+.custom-nav{
+	background-color:#F4CBB1;
+	font-family: 'Noto Serif SC', serif;
+}
+
+.centerimage{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.time{
+	color:#3A7989;
+	font-weight: bold;
+}
+
+.location{
+	color:#3A7989;
+	text-transform: uppercase;
+}
+
+.radio{
+	color:#BF2C2C;
+	text-align: center;
+}
+.showtime{
+	color:#3A7989;
+	font-weight:bold;
+
+}
+.wp-block-audio{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%
+}
+
+.jamie{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+  border-radius: 50%;
+}
+
+.freshman{
+	text-align: center;
+	color:#3A7989;
+	font-size: 20px;
+}
+
+.intro{
+	text-align: center;
+}
+
+
