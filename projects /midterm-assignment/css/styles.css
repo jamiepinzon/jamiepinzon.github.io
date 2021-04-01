@@ -1,0 +1,162 @@
+.custom-nav{
+	background-color:#FFFFFF;
+}
+
+.line2title{
+	font-family: 'Anton', sans-serif;
+	font-size: 120px;
+	color:#010833;
+}
+
+@media(max-width:576px){
+	.line2title{
+		font-size: 85px;
+	}
+}
+
+h1{
+	font-family: 'Anton', sans-serif;
+	font-size: 60px;
+	color:#010833;
+	text-align: center;
+}
+
+@media(max-width:576px){
+	h1{
+		font-size: 37px;
+	}
+}
+
+h2{
+	font-family: 'Anton', sans-serif;
+	text-align: center;
+	text-transform: uppercase;
+	padding-top: 5%;
+}
+
+strong{
+	color:black;
+	text-decoration:underline;
+    text-decoration-color:#ffa500;
+}
+
+body{
+	background-color:#fc5f1a;
+}
+
+.content{
+	padding-top: 5%;
+}
+
+.author,
+.illustrator{
+	text-align: center;
+}
+
+.author{
+	padding-top: 3%;
+}
+
+.illustrator{
+	padding-bottom: 5%;
+}
+
+p{
+	font-family: 'nunito', sans-serif;
+	font-size: 18px;
+}
+
+@media(max-width:576px){
+	p{
+		font-size: 15px;
+		line-height: 1.75;
+	}
+}
+
+.responsive{
+	display: block;
+	width:100%;
+	margin: 0 auto 0 auto;
+}
+
+.background{
+	background-color:#FFFFFF;
+	margin-top: 2%;
+	margin-bottom: 2%;
+}
+
+
+.titlebox{
+	background-color:#010833;
+	padding-top:2%;
+	padding-bottom:2%;
+	margin-top:-2%;
+	margin-bottom:-2%;
+}
+
+.title{
+	color: #ffa500;
+	font-size: 70px;
+	text-transform: uppercase;
+	letter-spacing: 2.5px;
+}
+.line{
+	border-top:2px;
+	color:white;
+	width:25%;
+	margin: 0 auto;
+}
+
+.line1{
+	padding-top: 5%;
+	margin-bottom: 0;
+	font-weight: 500;
+	letter-spacing: 1.5px;
+	font-size:18px;
+	color:#ffa500;
+	font-family: 'nunito', sans-serif;
+	}
+
+.line2{
+	font-size: 30px;
+	margin:0;
+	padding:0;
+	text-transform: uppercase;
+	font-family: 'Anton', sans-serif;
+	color:#010833;
+
+}
+
+.line3{
+	font-weight: 200;
+	font-size: 16px;
+	color:#010833;
+	font-family: 'nunito', sans-serif;
+}
+
+
+.last{
+	padding-bottom: 1%;
+}
+.credits{
+	font-weight: 600;
+	font-size: 14px;
+}
+.credits2{
+	font-size: 14px;
+}
+
+.end{
+	padding-bottom: 5%;
+}
+
+
+@media (max-width:767px){
+  .title,
+  .line1,
+  .line2,
+  .line3{
+  	padding-left:2%;
+  	padding-right: 2%;
+  }
+}
